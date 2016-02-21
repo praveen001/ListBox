@@ -1,0 +1,29 @@
+.list {
+	width:145px;
+	height:80px;
+	border:1px solid #000;
+	margin:1px 0px;
+}
+
+.listitem {
+	display:block;
+	float:left;
+	background-color:#2299ff;
+	border:1px solid blue;
+	padding:2px;
+	margin:3px;
+	border-radius:15px;
+	font-size:18px;
+	color:#fff;
+	font-family: Calibri;	
+}
+
+.listitem > .listitemremover {
+	display:block;
+	float:right;
+	background-color:#eee;
+	padding:0px 5px;
+	color:#333;
+	border-radius:50px;
+	margin:0px 5px;
+}
